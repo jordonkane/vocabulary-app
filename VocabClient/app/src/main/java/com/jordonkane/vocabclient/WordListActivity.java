@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Toast;
 
@@ -33,7 +34,8 @@ public class WordListActivity extends AppCompatActivity {
 
         FloatingActionButton floatingActionButton = findViewById(R.id.wordList_fab);
         floatingActionButton.setOnClickListener(view -> {
-
+            Intent intent = new Intent(this, WordForm.class);
+            startActivity(intent);
         });
 
         loadEmployees();
