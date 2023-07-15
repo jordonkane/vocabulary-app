@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1414666-eca0-4316-9c37-d08a7f555dbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/controller/WordController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/WordDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/WordRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/VocabServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/VocabServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VocabServer/src/test/java/com/jordonkane/vocabserver/VocabServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/src/test/java/com/jordonkane/vocabserver/VocabServerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
