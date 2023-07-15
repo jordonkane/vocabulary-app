@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.jordonkane.vocabclient.adapter.WordAdapter;
 import com.jordonkane.vocabclient.model.Word;
 import com.jordonkane.vocabclient.retrofit.RetrofitService;
@@ -29,6 +30,11 @@ public class WordListActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.wordList_recyclerView);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+        FloatingActionButton floatingActionButton = findViewById(R.id.wordList_fab);
+        floatingActionButton.setOnClickListener(view -> {
+
+        });
 
         loadEmployees();
     }
