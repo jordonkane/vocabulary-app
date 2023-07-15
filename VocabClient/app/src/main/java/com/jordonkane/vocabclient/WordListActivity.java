@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import android.widget.Toast;
 
+import com.jordonkane.vocabclient.adapter.WordAdapter;
 import com.jordonkane.vocabclient.model.Word;
 import com.jordonkane.vocabclient.retrofit.RetrofitService;
 import com.jordonkane.vocabclient.retrofit.WordAPI;
@@ -48,7 +49,8 @@ public class WordListActivity extends AppCompatActivity {
         });
     }
 
-    private void populateListView(List<Word> body) {
-
+    private void populateListView(List<Word> wordList) {
+        WordAdapter wordAdapter = new WordAdapter(wordList);
+        recyclerView.setAdapter(wordAdapter);
     }
 }
