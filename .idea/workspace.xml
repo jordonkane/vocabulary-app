@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1414666-eca0-4316-9c37-d08a7f555dbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/controller/WordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/WordDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/model/word/WordRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VocabServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VocabServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/VocabServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/src/main/java/com/jordonkane/vocabserver/VocabServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VocabServer/src/test/java/com/jordonkane/vocabserver/VocabServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/VocabServer/src/test/java/com/jordonkane/vocabserver/VocabServerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +32,9 @@
     <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2SaCAIPLajqxPvO85EsxhvTXnTm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VocabServerApplication">
     <configuration name="VocabServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jordonkane.vocabserver.VocabServerApplication" />
       <module name="VocabServer" />
@@ -43,9 +57,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VocabServerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocabServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jordonkane.vocabserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jordonkane.vocabserver" />
+      <option name="MAIN_CLASS_NAME" value="com.jordonkane.vocabserver.VocabServerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocabServerApplicationTests.addWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocabServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jordonkane.vocabserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jordonkane.vocabserver" />
+      <option name="MAIN_CLASS_NAME" value="com.jordonkane.vocabserver.VocabServerApplicationTests" />
+      <option name="METHOD_NAME" value="addWordTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocabServerApplicationTests.deleteAllWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocabServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jordonkane.vocabserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jordonkane.vocabserver" />
+      <option name="MAIN_CLASS_NAME" value="com.jordonkane.vocabserver.VocabServerApplicationTests" />
+      <option name="METHOD_NAME" value="deleteAllWordsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VocabServerApplicationTests.getAllWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VocabServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jordonkane.vocabserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jordonkane.vocabserver" />
+      <option name="MAIN_CLASS_NAME" value="com.jordonkane.vocabserver.VocabServerApplicationTests" />
+      <option name="METHOD_NAME" value="getAllWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.VocabServerApplication" />
+        <item itemvalue="JUnit.VocabServerApplicationTests.addWordTest" />
+        <item itemvalue="JUnit.VocabServerApplicationTests.deleteAllWordsTest" />
+        <item itemvalue="JUnit.VocabServerApplicationTests.getAllWords" />
+        <item itemvalue="JUnit.VocabServerApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -59,5 +140,16 @@
       <updated>1689375160120</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
