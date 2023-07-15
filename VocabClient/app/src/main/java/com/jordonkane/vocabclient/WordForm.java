@@ -18,7 +18,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class MainActivity extends AppCompatActivity {
+public class WordForm extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,13 +47,13 @@ public class MainActivity extends AppCompatActivity {
             wordAPI.save(word).enqueue(new Callback<Word>() {
                 @Override
                 public void onResponse(Call<Word> call, Response<Word> response) {
-                    Toast.makeText(MainActivity.this, "Save Successful!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(WordForm.this, "Save Successful!", Toast.LENGTH_SHORT).show();
                 }
 
                 @Override
                 public void onFailure(Call<Word> call, Throwable t) {
-                    Toast.makeText(MainActivity.this, "Save Failed!", Toast.LENGTH_SHORT).show();
-                    Logger.getLogger(MainActivity.class.getName()).log(Level.SEVERE, "An Error has occurred!", t);
+                    Toast.makeText(WordForm.this, "Save Failed!", Toast.LENGTH_SHORT).show();
+                    Logger.getLogger(WordForm.class.getName()).log(Level.SEVERE, "An Error has occurred!", t);
                 }
             });
 
