@@ -1,6 +1,6 @@
 # VocabularyList 📝 - Android Application 📱 
 Vocabulary List client &amp; server application.
-
+<iframe src="https://giphy.com/embed/KHjFpKq3gqZLhRuqzE" width="234" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KHjFpKq3gqZLhRuqzE">via GIPHY</a></p>
 <details open="open">
 <summary>Table of Contents</summary>
 
