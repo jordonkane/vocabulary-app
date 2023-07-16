@@ -1,10 +1,6 @@
 # VocabularyList 📝 - Android Application 📱 
 Vocabulary List client &amp; server application.
-<h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
-    <img src="{{cookiecutter.repo_slug}}/docs/images/logo.svg" alt="Logo" width="125" height="125">
-  </a>
-</h1>
+
 
 <div align="center">
   Amazing GitHub Template - Sane defaults for your next project!
