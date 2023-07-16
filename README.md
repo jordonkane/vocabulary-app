@@ -1,6 +1,7 @@
 # VocabularyList 📝 - Android Application 📱 
 Vocabulary List client &amp; server application.
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNlamUzdzNkcW95d3F6eXg0ZmttOTV6azh4ZTd5bDMwcm53dDdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHjFpKq3gqZLhRuqzE/giphy.gif
+![vbl-gif0](https://github.com/jordonkane/vbl-app/assets/55868384/7b755597-aadf-4371-b274-d9e0df609719)
+
 <details open="open">
 <summary>Table of Contents</summary>
 
