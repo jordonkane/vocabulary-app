@@ -1,5 +1,5 @@
 # VocabularyList 📝 - Android Application 📱
-![vbl-gif0](https://github.com/jordonkane/vbl-app/assets/55868384/e65e8e2a-36c6-477d-a1b0-400574c201d7)
+![vbl-gif0](https://github.com/jordonkane/vbl-app/assets/55868384/1ac2d129-3acb-4942-81a0-ef29d3ce41bc)
 ![vbl-gif1](https://github.com/jordonkane/vbl-app/assets/55868384/63b92877-0587-4bc1-b823-a4c53dd9bbcb)
 <details open="open">
 <summary>Table of Contents</summary>
