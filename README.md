@@ -1,28 +1,6 @@
 # VocabularyList 📝 - Android Application 📱 
 Vocabulary List client &amp; server application.
 
-
-<div align="center">
-  Amazing GitHub Template - Sane defaults for your next project!
-  <br />
-  <br />
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
-  ·
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/dec0dOS/amazing-github-template/discussions">Ask a Question</a>
-</div>
-
-<div align="center">
-<br />
-
-[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
-
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![made with hearth by dec0dOS](https://img.shields.io/badge/made%20with%20%E2%99%A5%20by-dec0dOS-ff1414.svg?style=flat-square)](https://github.com/dec0dOS)
-
-</div>
-
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -44,7 +22,8 @@ Vocabulary List client &amp; server application.
 
 ---
 
-## About
+## Overview
+
 
 <table>
 <tr>
@@ -84,7 +63,7 @@ Of course, no template will serve all the projects since your needs may be diffe
 </tr>
 </table>
 
-### Built With
+### Technologies
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 - [Cookiecutter](https://github.com/cookiecutter/cookiecutter)
@@ -163,64 +142,5 @@ Default values are provided as an example to help you figure out what should be 
 
 > NOTICE: to use GitHub Discussions, you have to [enable it first](https://docs.github.com/en/discussions/quickstart).
 
-## Roadmap
-
-See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
-
-- [Top Feature Requests](https://github.com/dec0dOS/amazing-github-template/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Top Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
-- [Newest Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-Please try to create bug reports that are:
-
-- _Reproducible._ Include steps to reproduce the problem.
-- _Specific._ Include as much detail as possible: which version, what environment, etc.
-- _Unique._ Do not duplicate existing opened issues.
-- _Scoped to a Single Bug._ One bug per report.
-
-Please adhere to this project's [code of conduct](docs/CODE_OF_CONDUCT.md).
-
-You can use [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) to check for common markdown style inconsistency.
-
-## Support
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub discussions](https://github.com/dec0dOS/amazing-github-template/discussions)
-- The email which is located [in GitHub profile](https://github.com/dec0dOS)
-
-## License
-
-This project is licensed under the **MIT license**. Feel free to edit and distribute this template as you like.
-
-See [LICENSE](LICENSE) for more information.
-
-## Acknowledgements
-
-Thanks for these awesome resources that were used during the development of the **Amazing GitHub template**:
-
-- <https://github.com/cookiecutter/cookiecutter>
-- <https://github.github.com/gfm/>
-- <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-- <https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project>
-- <https://thoughtbot.com/blog/how-to-write-a-great-readme>
-- <https://www.makeareadme.com>
-- <https://github.com/noffle/art-of-readme>
-- <https://github.com/noffle/common-readme>
-- <https://github.com/RichardLitt/standard-readme>
-- <https://github.com/matiassingers/awesome-readme>
-- <https://github.com/LappleApple/feedmereadmes>
-- <https://github.com/othneildrew/Best-README-Template>
-- <https://github.com/mhucka/readmine>
-- <https://github.com/badges/shields>
-- <https://github.com/cjolowicz/cookiecutter-hypermodern-python>
-- <https://github.com/stevemao/github-issue-templates>
-- <https://github.com/devspace/awesome-github-templates>
-- <https://github.com/cezaraugusto/github-template-guidelines>
-- <https://github.com/frenck?tab=repositories>
-- <https://docs.github.com/en/discussions/quickstart>
-- <https://docs.github.com/en/actions>
+## Author Info
+- Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
