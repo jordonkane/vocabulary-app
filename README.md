@@ -3,7 +3,7 @@
 ![vbl-gif1](https://github.com/jordonkane/vbl-app/assets/55868384/63b92877-0587-4bc1-b823-a4c53dd9bbcb)
 
 ## Overview :sunflower:
-The app allows the user to create and list vocabulary words.
+VocabularyList is an app that allows the user to create and display a list of vocabulary words.
 
 ### Technologies Used:
 - Spring Boot
@@ -12,10 +12,10 @@ The app allows the user to create and list vocabulary words.
 - Android Studio IDE
 
 ## Usage :wrench:
-| Endpoint | Description |
-| --- | --- |
-| `/news` | Displays esports-related articles from all sites. |
-| `/news/{id}` | Displays esports-related articles from a *specific* site.
+### How to use
+- Clone the repository on your local machine
+- Run the server
+- Emulate the client through the Android Studio IDE and connect to the server
 
 ## Author Info
 - Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
