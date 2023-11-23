@@ -9,6 +9,7 @@ VocabularyList is an app that allows the user to create and display a list of vo
 - Spring Boot
 - MySQL
 - Gradle
+- Retrofit
 - Android Studio IDE
 
 ## Usage :wrench:
