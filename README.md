@@ -21,3 +21,6 @@
 3. Edit file `application.yml` (MySQL server's account and version) according to your database or setup environment variables.
 4. Launch the 'VocabClient' in `Android Studio IDE` android emulator.
 5. Run the Spring Boot `VocabServer` in `IntelliJ`. The db tables will be created when run first time.
+
+## Author Info
+- Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)
